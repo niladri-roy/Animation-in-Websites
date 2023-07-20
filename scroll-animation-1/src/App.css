@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Teko', sans-serif;
+  font-size: 24px;
+  color: #fff;
+  letter-spacing: .12rem;
+  background-color: #1e1e1d;
+}
+
+.App{
+  margin: auto 20px;
+}
+
+.for-scroll{
+  background-color: #1e1e1d;
+  min-height: 100vh;
+}
+
